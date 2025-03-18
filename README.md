@@ -1,4 +1,4 @@
-# Project Title
+# AI Notes Summarizer
 
 PDF Notes Summarizer is an AI-powered tool that extracts text from PDF documents and generates concise summaries using Sentence Transformers and K-Means clustering. It helps users quickly grasp key insights from lengthy documents.
 
